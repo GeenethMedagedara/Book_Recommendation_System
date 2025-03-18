@@ -1,3 +1,7 @@
+"""
+Handles the loading of the model.pkl, books_name.pkl, final_rating_with_books.pkl, and book_pivot.pkl files and converts them to a serializable format
+"""
+
 import sys
 import pickle
 import streamlit as st

@@ -12,6 +12,10 @@
 
 # 
 
+"""
+Handles the loading of the books_name.pkl file and converts it to a serializable format
+"""
+
 import sys
 import pickle
 import json
